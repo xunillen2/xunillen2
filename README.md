@@ -1,3 +1,3 @@
-Lynx dude that likes working with hardware and firmware.
+Lynx dude that likes to work with hardware and firmware.
 
 Website: "in progress"
