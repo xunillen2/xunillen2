@@ -1,5 +1,9 @@
 Dude that likes to work with low level stuff.
 
+# Note
+This github account is going read only as I'm migrating to my own self hosted server.
+This account will only be used as a mirror. Until migration is finished, some repos will temporary go private
+
 ## Identity:
 
 
